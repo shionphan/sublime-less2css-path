@@ -1,0 +1,11 @@
+{
+	"folders":[{
+		"path": "\/Users\/joomla178\/githubsource\/sublime-less2css-path"
+	}],
+	"settings":{
+    "less2css":{
+		  "lessBaseDir": "\/Users\/joomla178\/githubsource\/sublime-less2css-path\/less",
+		  "outputDir": "\/Users\/joomla178\/githubsource\/sublime-less2css-path\/css",
+    }
+  }
+}

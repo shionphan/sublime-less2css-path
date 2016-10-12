@@ -1,0 +1,1202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"grid",
+				"gridId"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"global-c",
+				"global-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"theme",
+				"themeName"
+			],
+			[
+				"the",
+				"themeColor"
+			],
+			[
+				"data-",
+				"data-themetype"
+			],
+			[
+				"them",
+				"themeType"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"pa",
+				"parents"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"globa",
+				"global-color-white"
+			],
+			[
+				"global-",
+				"global-color-white"
+			],
+			[
+				"fa-",
+				"fa-angle-down"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"vi",
+				"vertical-align"
+			],
+			[
+				"car",
+				"carets-up"
+			],
+			[
+				"cart",
+				"carets"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"opts"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"f",
+				"fn"
+			],
+			[
+				"open",
+				"openWin"
+			],
+			[
+				"on",
+				"openWin"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"global-color",
+				"global-color-white"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"offse",
+				"offset_opacity"
+			],
+			[
+				"帮助",
+				"帮助中心"
+			],
+			[
+				"default",
+				"defaultroot"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"screen-sm",
+				"screen-sm-min"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"global",
+				"global-color"
+			],
+			[
+				"size",
+				"size-base"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"w",
+				"wh-dtl-bread"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"ext",
+				"extend"
+			],
+			[
+				"wa",
+				"watchtsk"
+			],
+			[
+				"font-fa",
+				"font-family-sans-serif"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"tab",
+				"tablet"
+			],
+			[
+				"tablet",
+				"tablet-and-above"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"globa-col",
+				"global-color-white"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"nav-a",
+				"nav-aside-close"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"cus",
+				"customfields"
+			],
+			[
+				"data",
+				"data-type"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-size",
+				"font-size-base"
+			],
+			[
+				"war",
+				"warning"
+			],
+			[
+				"br",
+				"browser"
+			],
+			[
+				"nm",
+				"_nm1"
+			],
+			[
+				"os",
+				"osVersion"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"gra",
+				"webkit-gradient"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"glob",
+				"global-color"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"margi-",
+				"margin-right"
+			],
+			[
+				"boot",
+				"bootstrapTheme"
+			],
+			[
+				"keep",
+				"keepalive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.sublime-project",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Maven.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Maven.sublime-build",
+					"mvn clean install"
+				],
+				[
+					"Packages/User/Maven.sublime-build",
+					"mvn full build"
+				],
+				[
+					"Packages/User/Maven.sublime-build",
+					"mvn clean"
+				],
+				[
+					"Packages/User/Maven.sublime-build",
+					"mvn skipTests"
+				]
+			],
+			[
+				"Packages/User/Maven.sublime-build",
+				"mvn clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/lessc/lessc.sublime-build",
+					""
+				],
+				[
+					"Packages/lessc/lessc.sublime-build",
+					"Non-Minified"
+				]
+			],
+			[
+				"Packages/lessc/lessc.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"mav",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"maven",
+				"Maven: Run install"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Build With: SASS - Compressed"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"I",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 203.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//Users/joomla178/githubsource/sublime-less2css-path"
+	],
+	"file_history":
+	[
+		"/Users/shionphan/www/others/githubsource/sublime-less2css-path/config.sublime-project",
+		"/Users/shionphan/Library/Application Support/Sublime Text 3/Packages/User/less2css.sublime-settings",
+		"/Users/shionphan/Library/Application Support/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+		"/Users/shionphan/apache-maven-3.0.4/conf/settings.xml",
+		"/Users/shionphan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/shionphan/www/iflytek/config/ahpad-dcp/ahpad-dcp-web/ahpad-dcp.xml",
+		"/Users/shionphan/www/iflytek/jzfp/demo/svg/by fanxin/zhu2.svg",
+		"/Users/shionphan/www/company/git/oa-bootstrap/dist/template/css/template_default/template.media.css",
+		"/Users/shionphan/www/company/git/oa-bootstrap/dist/template/css/template.bootstrap.min.css",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/bootstrap/navs.less",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/bootstrap/close.less",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/template.style.less",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/template.portal.less",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/template.bootstrap.theme.wh.less",
+		"/Users/shionphan/www/company/git/oa-bootstrap/source/template/less/template.bootstrap.wh.less",
+		"/Users/shionphan/www/others/www.goovell.com/latest/_config.yml",
+		"/Applications/PhpStorm.app/Contents/bin/phpstorm.vmoptions",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-shzl/src/main/webapp/resources/js/apps/population/actualPopulationList.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/plugins/fly.addressBoxv2.js",
+		"/Users/shionphan/www/iflytek/ywq-all-20160718/ywq-sqcj/src/main/webapp/resources/script/apps/practitioners/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all-20160718/ywq-sqcj/src/main/webapp/resources/script/plugins/fly.addressBoxv2.js",
+		"/Users/shionphan/www/iflytek/ywq-all-20160718/ywq-sqcj/src/main/webapp/resources/script/apps/practitioners/practitionersView.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/view.js",
+		"/Users/shionphan/Documents/joomla178/javascript调用高德地图.md.html",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/case-register-view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/valid.js",
+		"/Users/shionphan/www/others/www.sandersongroup.com.cn/templates/jk_sanderson/css/template.style.less",
+		"/Users/shionphan/www/others/www.sandersongroup.com.cn/templates/jk_sanderson/css/template.style.css",
+		"/Users/shionphan/Documents/joomla178/map.html",
+		"/Users/shionphan/www/others/githubsource/amap-marker/map.html",
+		"/Users/shionphan/www/others/sst.biz/map.html",
+		"/Users/shionphan/www/others/githubsource/amap-marker/<p><iframe class=\"amap\" src=\"http:::www.sst.biz:ma",
+		"/Users/shionphan/www/others/sst.biz/地图地址.html",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/sentiment/view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-common/common-multi-form.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-common/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/WEB-INF/view/statistical/abnormal-attendance-statistical.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/case-register.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/resources/js/apps/statistical/abnormal-attendance/list-main.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/hit-pyramid-sales/case-register-view.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-feedback/case-feedback-view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-feedback/case-feedback.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-feedback/valid.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-feedback/view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-verification/view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/common/util.js",
+		"/Users/shionphan/Library/Caches/Cleanup At Startup/Transmit/7FE20EF1-804B-4172-B4ED-C4665E8EC474/php5-fpm.log",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/righteous-boldly/deeds-declare-view.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/righteous-boldly/deeds-declare/view.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/righteous-boldly/deeds-declare/valid.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/righteous-boldly/deeds-declare/main.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/righteous-boldly/deeds-declare/list.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/righteous-boldly/deeds-declare/common-multi-form.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/resources/config/sqsw/sqsw.xml",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/sentiment/sentimentManagementView.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/sentiment/valid.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/sentiment/sentimentManagementView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/sentiment/sentimentManagement.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/sentiment/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/pom.xml",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/resources/js/apps/place/gridmanager-track/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/resources/js/apps/place/gridmanager-position/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/org/securityProductionView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/caseRegView.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/css/site.css",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/hit-pyramid-sales/caseRegister.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/hit-pyramid-sales/caseRegisterView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/righteous-boldly/org-management-view.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/righteous-boldly/deedsEvaluationDetail.jsp",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/event/eventManagementView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/resources/core_resources/title_cache.xml",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/caseReg.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/plugins/fly.addressBox.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/plugins/fly.addressBoxv2.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/css/site.css",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/ywq/install.sh",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/usualPopulation/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/person/usualPopulationManagementView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/usualPopulation/usualPopulationManagementView.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/usualPopulation/usualPopulationManagement.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/plugins/flyUI/js/flyui.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/test.json",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/inc/style2.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/inc/style.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/inc/taglibs.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/securityCase/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/caseregView.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/resources/config/zzgl/zzgl.xml",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/resources/script/apps/hit-pyramid-sales/case-register/caseregInfo.js",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/comprehensive/securityCase.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/resources/config/zzgl/zhcs.xml",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/resources/config/zzgl/fdfs_client.conf",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp/WEB-INF/view/inc/meta.jsp",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/jetty-env.xml",
+		"/Users/shionphan/www/iflytek/ywq-zzgl/ywq/pom.xml",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/schoolAround/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/schoolAround/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/schoolAround/schoolAroundView.js",
+		"/Users/shionphan/Library/Caches/Cleanup At Startup/Transmit/D70B7431-C4E7-41EE-B328-C12829E8527F/error.log",
+		"/Users/shionphan/www/company/git/oa-11-5/defaultroot/source/template/less/template.reset.less",
+		"/Users/shionphan/www/company/git/oa-11-5/defaultroot/source/template/less/template.media.less",
+		"/Users/shionphan/www/company/git/oa-11-5/defaultroot/source/template/less/system/template.system.less",
+		"/Users/shionphan/www/company/git/oa-11-5/defaultroot/source/template/less/global/template.global.less",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/css/site.less",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/css/site_zz.less",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/schoolAround/schoolAround.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/org/schoolAroundView.jsp",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/WEB-INF/view/index/houseMesg.jsp",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseMesg/main.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/schoolAround/emptyobj.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/grid/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/businessOrganization/businessOrganization.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/resources/js/apps/examine/assessment-indicators/search-tree.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseMesg/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseMesg/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/businessOrganization/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/businessOrganization/businessOrganizationView.js",
+		"/Users/shionphan/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseManage/houseManagement.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/usualPopulation/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseMesg/getZhxx.do",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseManage/view.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseManage/valid.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseManage/dao.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/houseManage/houseManagementView.js",
+		"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj/src/main/webapp/resources/script/apps/flowPopulation/flowPopulationManagement.js",
+		"/Users/shionphan/Library/Caches/Cleanup At Startup/Transmit/25D6E4A7-C270-4E49-9732-4367C35990A5/error.log"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/shionphan/www/iflytek/ywq-zzgl/zzgl/src/main/webapp",
+			"",
+			"<current file>",
+			"",
+			"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj, *.js",
+			"/Users/shionphan/www/iflytek/ywq-all/ywq-sqcj",
+			"/Users/shionphan/www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/WEB-INF/view",
+			"/Users/shionphan/www/company/git/oa-11-5/,*.less",
+			"/Users/shionphan/www/others/https123/, *.less",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123、",
+			"/Users/shionphan/www/others/https123, *.less",
+			"/Users/shionphan/www/company/git/oa-11-5/,*.less",
+			"/Users/shionphan/www/company/git/oa-11-5/ *.less",
+			"/Users/shionphan/www/company/git/oa-11-5",
+			"/Users/shionphan/www/others/https123, *.less",
+			"/Users/shionphan/www/company/git/oa-11-5, *.less",
+			"/Users/shionphan/www/company/git/oa-11-5/ *.less",
+			"/Users/shionphan/www/company/git/oa-11-5/*.less",
+			"/Users/shionphan/www/company/git/oa-11-5",
+			"/Users/shionphan/www/company/oa-11-5",
+			"/Users/shionphan/www/others/https123/qa-include",
+			"/Users/shionphan/www/others/https123/qa-lang",
+			"/Users/shionphan/www/others/blog/hexo-theme-corporate-example/",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/default/",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/orderforms/goovellorder",
+			"/Users/shionphan/www/others/whmcs.goovell.com",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/qa-plugin/",
+			"/Users/shionphan/www/others/https123/qa-plugin/wysiwyg-editor/",
+			"/Users/shionphan/www/others/https123/qa-plugin/q2a-breadcrumbs/, *php",
+			"/Users/shionphan/www/others/https123/plugin/q2a-breadcrumbs/, *php",
+			"/Users/shionphan/www/others/https123/plugin/q2a-breadcrumbs, *php",
+			"/Users/shionphan/www/others/https123/, *php",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/ *php",
+			"/Users/shionphan/www/others/https123/,*php",
+			"/Users/shionphan/www/others/https123/qa-lang/zh",
+			"/Users/shionphan/www/others/https123/lang/zh",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/qa-lang/zh",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/less",
+			"/Users/shionphan/www/others/https123",
+			"/Users/shionphan/www/others/https123/qa-theme/",
+			"/Users/shionphan/www/others/https123/qa-theme/,*.less",
+			"/Users/shionphan/www/others/https123/qa-plugin/,*.scss",
+			"/Users/shionphan/www/others/https123/qa-plugin/,*.less",
+			"/Users/shionphan/www/others/https123/qa-theme/,*.less",
+			"/Users/shionphan/www/others/https123/qa-theme/,*.php",
+			"/Users/shionphan/www/others/https123/qa-theme/*.php",
+			"/Users/shionphan/www/others/https123/qa-theme",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/qa-plugin/",
+			"/Users/shionphan/www/others/https123/qa-plugn/",
+			"/Users/shionphan/www/others/https123/",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/less",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell/less",
+			"/Users/shionphan/www/others/https123/qa-theme/goovell",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/bootwhmcs",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/orderforms/bootorder",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/bootwhmcs",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/bootwhmcs,*.tpl",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/bootwhmcs",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/flattern",
+			"/Users/shionphan/www/others/whmcs.goovell.com/templates/goovell",
+			"/Users/shionphan/www/others/cart.goovell.com/upload/catalog/view",
+			"/Users/shionphan/Documents/gowork/src/github.com/gogits/gogs/public/less",
+			"/Users/shionphan/Documents/gowork/src/github.com/gogits/public",
+			"/Users/shionphan/Documents/gowork/src/github.com/gogits/",
+			"/Users/shionphan/Documents/gowork/src/github.com/gogits/gogs",
+			"/Users/shionphan/Documents/gowork/src/github.com/gogits/gogs/public/less",
+			"/Users/shionphan/www/company/git/wikisource/js",
+			"/Users/shionphan/www/company/git/wikisource",
+			"/Users/shionphan/www/company/git/wiki",
+			"",
+			".sans-serif;",
+			"/Users/shionphan/www/others/www.goovell.com/stackedit/stackedit"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bottom",
+			"mask",
+			"getUrlInfo",
+			"getUrlInfo()",
+			"getURL",
+			"options.code",
+			"isDefault",
+			"renderData",
+			"resetBox",
+			"isDefaultLoad",
+			"getIdcardInfo",
+			"isIdcard",
+			"</codes></pre>",
+			"<code>",
+			"</code>",
+			"</code></pre>",
+			"<code>",
+			"pre",
+			"550",
+			"valid",
+			"rule",
+			"证件类型",
+			"change",
+			"stepOneSave",
+			"exportTitle",
+			"popList",
+			"flyHandleForm",
+			"SJRY_ZJLX_SFZ",
+			"ZAJLY",
+			"message",
+			"multi",
+			"relatedPerson",
+			"deedsReporting",
+			"删除",
+			"view-img",
+			"预览",
+			"upload",
+			"deleteArr",
+			"file-del",
+			"fileListId",
+			"ATTACHMENTSWITCH",
+			"附件删除",
+			"删除",
+			"delete",
+			"uploadFile",
+			"subCode",
+			"filelist",
+			"fileList",
+			"flyTip",
+			"attachments",
+			"uploadFile",
+			"upload",
+			"fileList",
+			"附件",
+			"getSsggByIdCard",
+			"valid",
+			"removeSsggInformation",
+			"sentimentId",
+			"readOnly",
+			"setData",
+			"ssgg_grid",
+			"addEvents",
+			"deleteListItemByIds",
+			"flyHandleForm",
+			"removeSsggInformation",
+			"noRepeat",
+			"$(\"#ssgg",
+			"$(\"#ssgg\")",
+			"ssgg",
+			"ssgg_grid",
+			"labelWidth:160",
+			"fly-address",
+			"v2",
+			"V2",
+			"初始化地址",
+			"初始化控件",
+			"初始化",
+			"户籍所在地",
+			"addressBox",
+			"addressBoxv2",
+			"addressBoxV2",
+			"addressBox",
+			"addressBoxV2",
+			"openPage",
+			"zh_add",
+			"jbxx",
+			"jbxx.getControl",
+			"caseA",
+			"caseAjxxly",
+			"jbxx",
+			"();",
+			"jbxx",
+			"类型",
+			"新增",
+			"queryGrid",
+			"caseIstrue",
+			"getList",
+			"securityCaseQueryPage",
+			"QueryPage",
+			"caseName",
+			"sjxz",
+			"gridObj",
+			"事件",
+			"\\9",
+			"getIds",
+			"();\n",
+			"()\n",
+			"'';",
+			"gridId",
+			"();",
+			";\n",
+			"noRepeat",
+			"stepOneSave",
+			"tab1_basic_save",
+			"新增",
+			"setData",
+			"focusGrid",
+			"getData",
+			"data",
+			"getData",
+			"getIds()",
+			"focus_delete",
+			"saveCaseInfo",
+			"caseSave",
+			"stepTwosave",
+			"stepOnesave",
+			"案件",
+			"saveCaseInfo"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</code></pre>",
+			"",
+			"</codes></pre>",
+			"",
+			"labelWidth:120",
+			"ajxx",
+			"caseStatus",
+			"center ell\">123234234234234234234234234234</div>",
+			"\"text-center\">123234234234234234234234234234</div>",
+			"",
+			"/*'use strict';*/",
+			"/**\n                 * 解决日期控件在非Chrome V8的浏览器中无法点击日期选择，暂时移除use strict\n                 * @author xinfan\n                 * @mail xinfan@iflytek.com\n                 * @time 2016-06-21\n                 */\n                /**'use strict';*/",
+			"/**\n                     * 解决日期控件在非Chrome V8的浏览器中无法点击日期选择，暂时移除use strict\n                     * @author xinfan\n                     * @mail xinfan@iflytek.com\n                     * @time 2016-06-21\n                     */\n                    /**'use strict';*/",
+			"/**\n * 解决日期控件在非Chrome V8的浏览器中无法点击日期选择，暂时移除use strict\n * @author xinfan\n * @mail xinfan@iflytek.com\n * @time 2016-06-21\n */\n/**'use strict';*/",
+			" role=\"button\" data-toggle=\"popover\" data-trigger=\"focus\">",
+			"</a",
+			"<a",
+			" data-toggle=\"popover\" role=\"button\"",
+			"att-modal",
+			"pure",
+			"tint(@global-color, 87%);",
+			"border:1px solid tint(@global-color, 87%);",
+			"",
+			".chzn-done",
+			"color:#",
+			"{",
+			"&.",
+			"),e(",
+			"pure",
+			",e('line'),",
+			"pure",
+			"data-seltype",
+			"label class=\"control-label\" for",
+			"",
+			"text-center",
+			"text-left",
+			"astatus",
+			"active-status",
+			"window.",
+			"$.window.",
+			"%>/",
+			"detail",
+			"dist/",
+			"\"defaultroot/",
+			"/defaultroot/",
+			"gvlink",
+			"gvimage",
+			"待回复",
+			"：^",
+			"：'",
+			"FAFDFF",
+			"F8FCFF",
+			"@tablet-and-bellow",
+			"\"墙帖\"",
+			"话题",
+			".light-border-bottom()",
+			"border-bottom: 1px",
+			"聯絡我們",
+			"//goovell.net",
+			"160px",
+			"$product.pid",
+			"$product.id",
+			"$product.bid",
+			"60px",
+			"。\"",
+			"\"table-lists table-responsive\"",
+			"\"form-group form-inline\"",
+			"class=\"input-group ipt-captcha col-sm-5",
+			"邮箱",
+			"<hr />",
+			"table-lists",
+			"账户",
+			"增值服务",
+			"产品失效",
+			"产品",
+			"工单",
+			"200",
+			"220",
+			"col-sm",
+			"btn-md",
+			"text-left",
+			"\"indent_size\": 2",
+			".nav-menu",
+			" button",
+			"goovell",
+			"../images",
+			" #cart-total",
+			".heading",
+			"goovell",
+			"/Users/shionphan/www/others/cart.goovell.com",
+			"https://static.goovell.com/",
+			"https://static.goovell.com/static/",
+			"https://static.goovell.com/",
+			"https://static.goovell.com",
+			"~",
+			"datetimepicker",
+			"../../images/media/",
+			"href=\"javascript:void(0)\"",
+			"<em class=\"red-point\">&#9679;</em>",
+			"<em class=\"red-point\">·</em>",
+			"i class=\"fa fa-color",
+			"platform/portal",
+			"file=\"platform/portal/",
+			"../images/",
+			"<li>",
+			"",
+			"normal",
+			"mirrors.163.com/",
+			".sans-serif;",
+			".serif;",
+			",\n",
+			"{\n",
+			".sans-serif;",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 240.0
+	},
+	"output.exec":
+	{
+		"height": 349.0
+	},
+	"output.find_results":
+	{
+		"height": 580.0
+	},
+	"output.mvn_exec":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "Packages/User/Maven.sublime-build",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"www/iflytek/ywq-all/ywq-sqsw/src/main/webapp/resources/js/plugins/flyUI/js/flyui-0.6.1.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 963.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
