@@ -1,6 +1,8 @@
 关于sublime中的Less2css输出css路径的配置
 ===
 
+本说明同步在：[关于sublime中的Less2css输出css路径的配置](http://www.joomla178.com/joomla-share/front-end/661-about-sublime-less2css-outdir-css.html)
+
 我们知道sublime Text是一款前端最轻便的强大编辑器，作为预编译工具中的Less自然不能缺席Sublime，less2css这款插件也是编译less的最好插件之一，它默认less和它产出的css会在同一个目录，但在项目管理中就显得麻烦了，所以我们要配置less和css的相对目录。
 
 插件的安装就不多赘述了！而且相信大家也试过修改setting配置文件去改变"outputDir": "./",的值，但是编译生成的css会莫名地出现在别的什么目录下，原因官方说明了编译输出的目录必须为绝对路径，打个比方，这个文件在 D:/sublime-less2css-path/css/，但是不可能每个项目都这样操作。
